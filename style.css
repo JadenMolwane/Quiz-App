@@ -1,1 +1,22 @@
+h1{
+	color:black;
+	text-align: center;
+
+}
+
+body{
+	 background:rgb(186, 235, 255)
+}
+
+P {
+	text-align: center;
+	border: 5px, solid, black;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+.Leonardo {
+	font-size:30px
+color: black;
+}
 
