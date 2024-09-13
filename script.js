@@ -1,5 +1,9 @@
-$(document).ready(function(){
-  $(".answer").click(function(){
-    $(this).show();
+$("button").click(function(){
+  $("p").after("<p>Hello world!</p>");
+  $(this).show();
   });
 });
+
+
+
+ 
