@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$("#recipe").click(function(){
-		$(".ingredients").toggle("swing");
-	});
+  $("#flip").click(function(){
+    $("#panel").slideDown("slow");
+  });
 });
